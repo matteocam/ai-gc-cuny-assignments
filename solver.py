@@ -3,7 +3,7 @@
 """
 General problem solver
 """
- 
+  
 class queue:
   def __init__(self):
     self.q = []
